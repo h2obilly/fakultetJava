@@ -83,7 +83,7 @@ public class Fakultet {
 //     Date datum = new GregorianCalendar(2001,11,11).getTime();
 
         //novi fakultet
-        Fakultet f1 = new Fakultet("fon");
+        Fakultet f1 = new Fakultet("fona");
         //noviStudenti i profesori
         List<Student> listaStudenata = Utills.kreirajListuStudenata();
         List<Profesor> listaProfesora = Utills.kreirajListuProfesora();
